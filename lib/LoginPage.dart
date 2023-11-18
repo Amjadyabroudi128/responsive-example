@@ -63,7 +63,7 @@ class LoginPage extends StatelessWidget {
                 borderRadius: BorderRadius.circular(8.r),
 
               ),
-              child: Center(child: Text("Login", style: TextStyle(fontSize: 20.sp, color: Colors.white),)),
+              child: Center(child: Text("Login", style: TextStyle(fontSize: 30.spMin, color: Colors.white),)),
             ),
           ],
         ),
